@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+The web was not initially built to be designed, programmers used different hacks to get things placed on a page in different ways. Rather than using the <table></table> to describe information using a table, programmers would use them to position other elements on a page.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Two big differences betweeninline and block: For inline the element doesn't start on a new line and only occupy just the width it requires. You can't set the width or height. Inline-block is formatted just like the inline element, where it doesn't start on a new line. BUT, you can set width and height values.
+
 3. What are the 4 areas of the box model?
+ The box model consists of: margins, borders, padding, and the actual content.
+
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+To center our box we use the align-items property to align our item on the cross axis, which in this case is the block axis running vertically.
+
 5. Explain why git is valuable to a team of developers.
+
+For developers, it eliminates everything from the time wasted passing commits over a network connection to the man hours required to integrate changes in a centralized version control system. It even makes better use of junior developers by giving them a safe environment to work in. Git offers the type of performance, functionality, security, and flexibility that most developers and teams need to develop their projects.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
