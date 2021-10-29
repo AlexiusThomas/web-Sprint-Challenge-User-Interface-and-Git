@@ -141,6 +141,35 @@ footer nav {
 }
 
 footer nav a {
-    color: white;
+    color: grey;
     text-decoration: none;
+}
+
+header {
+    width: 100%;
+    background: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    align-content: center;
+}
+
+header nav {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+    margin-top: 1%;
+}
+header  img {
+    height: 10%;
+}
+
+.mainpic {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
 }
