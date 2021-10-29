@@ -102,18 +102,128 @@ p {
 }
 
 .middle-content .boxes .box {
-    width: 12.5%;
+    width: 14.5%;
     height: 100px;
-    background: black;
-    margin: 20px 2.5%;
+    background: white;
+    margin-top: 2%;
+    margin-left: 3%;
+    margin-bottom: 2%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.middle-content .boxes Box {
-    color: teal;
+.middle-content .boxes .box .box1 {
+    width: 100%;
+    height: 100px;
+    background: teal;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box2 {
+    width: 100%;
+    height: 100px;
+    background: gold;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box3 {
+    width: 100%;
+    height: 100px;
+    background: cadetblue;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box4 {
+    width: 100%;
+    height: 100px;
+    background: coral;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box5 {
+    width: 100%;
+    height: 100px;
+    background: crimson;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box6 {
+    width: 100%;
+    height: 100px;
+    background: forestgreen;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box7 {
+    width: 100%;
+    height: 100px;
+    background: darkorchid;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.middle-content .boxes .box .box8 {
+    width: 100%;
+    height: 100px;
+    background: hotpink;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box9 {
+    width: 100%;
+    height: 100px;
+    background: indigo;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box .box10 {
+    width: 100%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 25px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .bottom-content {
     display: flex;
