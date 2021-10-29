@@ -269,7 +269,7 @@ header {
 }
 
 header nav {
-    width: 40%;
+    width: 44%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -291,6 +291,105 @@ header  img {
 .mainpic {
     display: flex;
     justify-content: center;
+    width:90%;
+    margin-left: 6%;
+   
+}
+.abouttext {
+    width: 100%;
+    margin-bottom: 2%;
+    border-bottom: 1px dashed black;
+    margin-right: 3%;
+    padding-left: 4%;
+    padding-bottom: 2%;
+    
+}
+
+.middle {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 22%;
+    margin-right: 8%;
+    align-content: center ;
+}
+
+.final {
+    margin-top: 2%;
     margin-bottom: 2%;
 }
 
+
+
+.one {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px dashed black;
+    width: 40%;
+   
+    margin-right: 4%;
+}
+
+
+
+.two {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px dashed black;
+    width: 40%;
+    
+}
+
+
+.three {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px dashed black;
+    width: 40%;
+    margin-right: 4%;
+    margin-top: 2%;
+
+}
+
+.four {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px dashed black;
+    width: 40%;
+    margin-top: 2%;
+    
+}
+
+.foot {
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: center;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    margin-left: 22%;
+    margin-right: 20%;
+}
+
+.final {
+        width: 90%;
+        margin-left: 22%;
+    }
+
+    button {
+        width: 30%;
+        background-color: white;
+        padding: 2%;
+        border-radius: 20%;
+        margin-top: 2%;
+        margin-bottom: 4%;
+        font-size: 17px;
+    }
+
+.image {
+    margin-left: 2%;
+}
+h2 {
+
+    padding-top: 1%;
+}
