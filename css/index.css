@@ -292,7 +292,7 @@ header  img {
     display: flex;
     justify-content: center;
     width:90%;
-    margin-left: 6%;
+    margin-left: 4%;
    
 }
 .abouttext {
@@ -300,8 +300,9 @@ header  img {
     margin-bottom: 2%;
     border-bottom: 1px dashed black;
     margin-right: 3%;
-    padding-left: 4%;
-    padding-bottom: 2%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    padding-top: 1%;
     
 }
 
@@ -325,8 +326,8 @@ header  img {
     flex-wrap: wrap;
     border-bottom: 1px dashed black;
     width: 40%;
-   
-    margin-right: 4%;
+    padding-top: 1%;
+    margin-right: 3%;
 }
 
 
@@ -336,7 +337,7 @@ header  img {
     flex-wrap: wrap;
     border-bottom: 1px dashed black;
     width: 40%;
-    
+    padding-top: 1%;
 }
 
 
@@ -345,7 +346,7 @@ header  img {
     flex-wrap: wrap;
     border-bottom: 1px dashed black;
     width: 40%;
-    margin-right: 4%;
+    margin-right: 3%;
     margin-top: 2%;
 
 }
@@ -387,7 +388,7 @@ header  img {
     }
 
 .image {
-    margin-left: 2%;
+    margin-left: 1%;
 }
 h2 {
 
